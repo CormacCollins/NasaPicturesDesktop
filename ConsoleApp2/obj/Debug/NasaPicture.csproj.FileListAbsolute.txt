@@ -7,3 +7,4 @@ C:\Users\corma\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xm
 C:\Users\corma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NasaPicture.csproj.CoreCompileInputs.cache
 C:\Users\corma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\corma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\corma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NasaPicture.csprojResolveAssemblyReference.cache

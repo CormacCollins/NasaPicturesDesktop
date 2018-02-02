@@ -15,6 +15,7 @@ namespace ConsoleApp2
     class RestRequest
     {
         private static HttpWebRequest request;
+		public string lastImageName;
         public RestRequest() {
         }
 
@@ -37,6 +38,7 @@ namespace ConsoleApp2
             JObject json = JObject.Parse(res);
             Console.WriteLine(json);
             string s = json["url"].ToString();
+			lastImageName = json["title"].ToString();
 
             //Request image for download 
             request = (HttpWebRequest)WebRequest.Create(s);
