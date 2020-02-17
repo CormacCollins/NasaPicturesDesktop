@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <settings>
-  <imagePath>C:\Users\corma\source\repos\ConsoleApp2\Pictures</imagePath>
+    <!--Full path to where images are stored goes here - should be inside program folder-->
+  <imagePath></imagePath>
 </settings>
